@@ -14,7 +14,7 @@ session_name = 'session_name'
 # Source and target channel details
 source_channel_id = 2253293576
 target_channel_link = "https://t.me/+Bswj6uKsmA4wYjJk"
-start_message = 420
+start_message = 432
 end_message = 1050
 
 async def download_and_send_video(message, target, client):
